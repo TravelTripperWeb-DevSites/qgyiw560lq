@@ -2,5 +2,9 @@
   "Upload": {
     "required": true,
     "type": "image"
+  },
+  "name":{
+    "required":true,
+    "type": "string"
   }
 }
