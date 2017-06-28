@@ -1,0 +1,27 @@
+{
+  "Upload": {
+    "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_4/media/2017-06-14-080453/pdf.pdf",
+    "file_type": "application/pdf",
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_4/media/2017-06-28-031735/large_fruits.jpeg",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_4/media/2017-06-28-031735/thumb_fruits.jpeg",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_4/media/2017-06-28-031735/medium_fruits.jpeg",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_4/media/2017-06-28-031735/small_fruits.jpeg",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_4/media/2017-06-28-031735/xsmall_fruits.jpeg",
+    "name": "fruits",
+    "description": "fruits and vegetables",
+    "tag": "oranges, apple, mango"
+  },
+  "name": "hjhjhjh",
+  "pic": {
+    "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_4/media/2017-06-28-031735/fruits.jpeg",
+    "file_type": "image/jpeg",
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_4/media/2017-06-28-031735/large_fruits.jpeg",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_4/media/2017-06-28-031735/thumb_fruits.jpeg",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_4/media/2017-06-28-031735/medium_fruits.jpeg",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_4/media/2017-06-28-031735/small_fruits.jpeg",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_4/media/2017-06-28-031735/xsmall_fruits.jpeg",
+    "name": "fruits",
+    "description": "fruits and vegetables",
+    "tag": "oranges, apple, mango"
+  }
+}
