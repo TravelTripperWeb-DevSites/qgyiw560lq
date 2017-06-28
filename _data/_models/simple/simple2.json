@@ -1,6 +1,19 @@
 {
   "Upload": {
-    "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_4/media/2017-06-14-080400/45133947.DSCF1707copy.jpg"
+    "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_4/media/2017-06-14-080400/45133947.DSCF1707copy.jpg",
+    "name": "kkkjj"
   },
-  "name": "flower"
+  "name": "flower",
+  "pic": {
+    "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_4/media/2017-06-28-030726/images.jpeg",
+    "file_type": "image/jpeg",
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_4/media/2017-06-28-030726/large_images.jpeg",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_4/media/2017-06-28-030726/thumb_images.jpeg",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_4/media/2017-06-28-030726/medium_images.jpeg",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_4/media/2017-06-28-030726/small_images.jpeg",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_4/media/2017-06-28-030726/xsmall_images.jpeg",
+    "name": "colour pencils",
+    "description": "pack of pencils",
+    "tag": "blue, green, yellow, black"
+  }
 }
