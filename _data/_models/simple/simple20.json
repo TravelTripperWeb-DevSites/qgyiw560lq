@@ -1,0 +1,19 @@
+{
+  "Upload": {
+    "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_4/media/2017-06-14-080453/pdf.pdf",
+    "file_type": "application/pdf"
+  },
+  "name": "dfdf",
+  "pic": {
+    "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_4/media/2017-06-23-052554/45133947.DSCF1707copy.jpg",
+    "file_type": "image/jpeg",
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_4/media/2017-06-23-052554/large_45133947.DSCF1707copy.jpg",
+    "url_thumb": "",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_4/media/2017-06-23-052554/medium_45133947.DSCF1707copy.jpg",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_4/media/2017-06-23-052554/small_45133947.DSCF1707copy.jpg",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_4/media/2017-06-23-052554/xsmall_45133947.DSCF1707copy.jpg",
+    "name": "flowdfdf",
+    "description": "yellow flowerdklfjldjfdjfdljf",
+    "tag": "fjdfjldjf"
+  }
+}
