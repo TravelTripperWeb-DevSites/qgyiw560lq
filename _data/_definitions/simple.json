@@ -6,5 +6,10 @@
   "name":{
     "required":true,
     "type": "string"
+  },
+  "pic": {
+    "required": true,
+    "type": "image"
   }
+  
 }
