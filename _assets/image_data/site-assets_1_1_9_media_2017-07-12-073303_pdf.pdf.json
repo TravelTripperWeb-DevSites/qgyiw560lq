@@ -1,12 +1,12 @@
 {
-  "name": "pdf",
+  "name": "pdf1",
   "file_name": "pdf.pdf",
   "file_type": "application/pdf",
   "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_9/media/2017-07-12-073303/pdf.pdf",
   "date_added": "2017-07-12-073312",
-  "tags": "",
+  "tags": "tag2",
   "file_size": 433994.0,
   "width": null,
   "height": null,
-  "description": ""
+  "description": "desc2"
 }
