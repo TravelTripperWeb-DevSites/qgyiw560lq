@@ -17,7 +17,7 @@
     "caption": "pencil",
     "description": "colour pencils"
   },
-  "name": "gdfghjk",
+  "name": "test atl, caption, desc",
   "pic": {
     "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_9/media/2017-07-12-073352/fruits.jpeg",
     "path": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_9/media/2017-07-12-073352/fruits.jpeg",
@@ -32,8 +32,8 @@
     "width": 259,
     "height": 194,
     "file_size": 14640,
-    "alt": "image1",
-    "caption": "image1",
-    "description": "desc1"
+    "alt": "123",
+    "caption": "456",
+    "description": "789"
   }
 }
