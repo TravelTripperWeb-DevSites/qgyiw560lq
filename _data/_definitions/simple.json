@@ -8,7 +8,7 @@
     "type": "string"
   },
   "pic": {
-    "type": "image"
+    "type": "richtext"
   }
   
 }
