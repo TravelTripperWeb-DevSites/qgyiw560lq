@@ -35,5 +35,6 @@
     "alt": "123",
     "caption": "456",
     "description": "789"
-  }
+  },
+  "slug": "slug3"
 }
