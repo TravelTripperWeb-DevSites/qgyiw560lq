@@ -35,5 +35,6 @@
     "alt": "image1",
     "caption": "image1",
     "description": "desc1"
-  }
+  },
+  "slug": "slug2"
 }
