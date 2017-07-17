@@ -35,5 +35,6 @@
     "alt": "vegetables",
     "caption": "fruits caption",
     "description": "fruits desc"
-  }
+  },
+  "slug": "slug1"
 }
