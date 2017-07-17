@@ -4,7 +4,7 @@
     "type": "image"
   },
   "name":{
-   
+    "required": "true",
     "type": "string"
   },
   "slug":{
