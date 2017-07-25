@@ -12,6 +12,9 @@
   },
   "pic": {
     "type": "richtext"
+  },
+  "pic2": {
+    "type": "richtext"
   }
   
 }
