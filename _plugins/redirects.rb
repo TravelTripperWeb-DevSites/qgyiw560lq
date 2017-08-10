@@ -12,7 +12,7 @@ module Jekyll
       @content = contents
       @data = { "permalink" => @name }
 
-      puts url, permalink, @name
+      #puts url, permalink, @name
       
     end
     
@@ -27,9 +27,10 @@ module Jekyll
 <html>
   <head>
     <noscript><meta http-equiv="refresh" content="0; url=/#{@redirect_to}" /></noscript>
+    <link rel="canonical" href="/#{@redirect_to}" />    
   </head>
   <body>
-    Redirecting from #{@name} to #{@redirect_to}
+    <span style="display:none;">Redirecting from #{@name} to #{@redirect_to}</span>
     <!-- Redirect in JavaScript with meta refresh fallback above in noscript -->
      <script>
        var destination = '/#{@redirect_to}';
