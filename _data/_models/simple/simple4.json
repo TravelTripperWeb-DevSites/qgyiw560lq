@@ -1,0 +1,24 @@
+{
+  "Upload": {
+    "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_9/media/2017-07-12-074738/images.jpeg",
+    "path": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_9/media/2017-07-12-074738/images.jpeg",
+    "file_type": "image/jpeg",
+    "name": "pencil",
+    "tags": "pencil, note, colors",
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_9/media/2017-07-12-074738/large_images.jpeg",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_9/media/2017-07-12-074738/thumb_images.jpeg",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_9/media/2017-07-12-074738/medium_images.jpeg",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_9/media/2017-07-12-074738/small_images.jpeg",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_9/media/2017-07-12-074738/xsmall_images.jpeg",
+    "width": 259,
+    "height": 194,
+    "file_size": 8393,
+    "alt": "colour pencils",
+    "caption": "colour pencils",
+    "description": "colour pencils"
+  },
+  "name": "test",
+  "slug": "asdfvbnm",
+  "pic": "<p>zxcvbnm,</p>",
+  "pic2": "<p>zxcvbnm</p>"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "pencil",
+  "file_name": "images.jpeg",
+  "file_type": "image/jpeg",
+  "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_9/media/2017-07-12-074738/images.jpeg",
+  "date_added": "2017-07-12-074802",
+  "tags": "pencil, note, colors",
+  "file_size": 8393.0,
+  "width": 259,
+  "height": 194,
+  "description": "colour pencils",
+  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_9/media/2017-07-12-074738/large_images.jpeg",
+  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_9/media/2017-07-12-074738/medium_images.jpeg",
+  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_9/media/2017-07-12-074738/small_images.jpeg",
+  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_9/media/2017-07-12-074738/xsmall_images.jpeg",
+  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_9/media/2017-07-12-074738/thumb_images.jpeg"
+}
