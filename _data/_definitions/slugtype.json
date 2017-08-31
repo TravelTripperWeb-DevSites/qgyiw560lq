@@ -3,9 +3,6 @@
   "name":{
     "required": "true",
     "type": "string"
-  },
-  "slug name":{
-    "type": "url_slug"
   }
   
 }
